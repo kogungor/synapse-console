@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+
+contact_links:
+  - name: FAQ
+    url: https://github.com/kogungor/synapse-console/blob/main/FAQ.md
+    about: Check the FAQ before opening an issue — your question may already be answered.
+  - name: Billing & Subscription Issues
+    url: https://reportaproblem.apple.com
+    about: For refunds and billing questions, contact Apple directly. We cannot process payments or refunds.
+  - name: Roadmap
+    url: https://github.com/kogungor/synapse-console/blob/main/ROADMAP.md
+    about: See what's planned before requesting a feature.
