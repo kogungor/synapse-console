@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.PNG" alt="Synapse Console" width="120" />
+</p>
+
 # Synapse Console
 
 **A professional SSH client for iPhone and iPad.**
