@@ -4,7 +4,7 @@
 
 Synapse Console is built for power users who need a fast, capable terminal in their pocket — with a native iOS interface that doesn't compromise on the features you rely on daily.
 
-[Download on the App Store](#) · [Changelog](CHANGELOG.md) · [Roadmap](ROADMAP.md) · [FAQ](FAQ.md)
+[Download on the App Store](#) · [Guides](docs/guides/README.md) · [Changelog](CHANGELOG.md) · [Roadmap](ROADMAP.md) · [FAQ](FAQ.md)
 
 ---
 
@@ -64,6 +64,7 @@ Synapse Console is built for power users who need a fast, capable terminal in th
 This is the **public community hub** for Synapse Console. The app's source code is private.
 
 Use this repository to:
+- **Learn how to use the app** — see the [Guides](docs/guides/README.md)
 - **Report bugs** — [open a bug report](.github/ISSUE_TEMPLATE/bug_report.md)
 - **Request features** — [open a feature request](.github/ISSUE_TEMPLATE/feature_request.md)
 - **Track what's coming** — see the [Roadmap](ROADMAP.md)
